@@ -1,4 +1,8 @@
-;-- Print the information about all the Sales.Person and their sales quota. For every Sales person you should provide their FirstName, 
+-- Running queries on Adventure Works DW 2022 database, mainly focusing on JOINs and GROUP BYs as the database stores its data in many different tables.
+
+
+
+-- Print the information about all the Sales.Person and their sales quota. For every Sales person you should provide their FirstName, 
 -- LastName, HireDate, SickLeaveHours and Region where they work.
 SELECT 
 	e.FirstName, 
